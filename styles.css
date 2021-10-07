@@ -1,0 +1,48 @@
+body
+{  
+    border: 2px solid black;
+    padding: 25px;
+    background: url(./answer.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+}
+label
+{
+    margin-left: 2.5%;
+    font-weight: 750;
+}
+.heading
+{   
+    margin-left: 0;
+    color: forestgreen;
+    font-size: 250%;
+}
+.sub_heading
+{   
+    margin-left: 5.5%;
+    margin-bottom: 10px;
+    font-size: 175%;
+    color:forestgreen;
+}
+.text
+{
+    font-weight: 500;
+}
+.country
+{
+    margin-left: 0%;
+}
+.form-select
+{   
+    margin-bottom:15px ;
+}
+.area
+{
+    margin-left: 2.5%;
+}
+.submit
+{
+    margin-left: 10%;
+    border-radius: 10px;
+}
